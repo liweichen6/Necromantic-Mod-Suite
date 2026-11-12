@@ -1,0 +1,33 @@
+{
+  "CORE_PhaseDuration": {
+    "FirstPhase": {
+      "Duration": 10.0
+    },
+    "SecondPhase": {
+      "Duration": 10.0
+    },
+    "TrirdPhase": {
+      "Duration": 10.0
+    }
+  },
+  "CORE_Heroes": {
+    "Robbie": {
+      "Movement": 6.75
+    },
+    "Milo": {
+      "Movement": 6.75
+    },
+    "Danica": {
+      "Movement": 6.75
+    },
+    "Morgan": {
+      "Movement": 6.75
+    },
+    "Gorian": {
+      "Movement": 6.75
+    },
+    "Gwen": {
+      "Movement": 6.75
+    }
+  }
+}

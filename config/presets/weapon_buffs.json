@@ -1,0 +1,25 @@
+{
+  "CORE_AbilityEffects": {
+    "Wpn_Necro_L1": {
+      "Value": 18.0,
+      "Cooldown": 4.5
+    },
+    "Wpn_ShdKnight_L1": {
+      "Value": 32.0,
+      "Cooldown": 2.2,
+      "Size": 1.2
+    },
+    "Wpn_Ranger_L1": {
+      "Value": 30.0,
+      "Cooldown": 1.6
+    },
+    "Wpn_Fighter_L1": {
+      "Value": 35.0,
+      "Cooldown": 1.0
+    },
+    "Wpn_Bard_L1": {
+      "Value": 6.0,
+      "Size": 1.8
+    }
+  }
+}

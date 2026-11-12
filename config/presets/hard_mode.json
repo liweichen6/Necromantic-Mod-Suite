@@ -1,0 +1,50 @@
+{
+  "CORE_Mobs": {
+    "Undead_T0_Unarmed": {
+      "Health": 18.0,
+      "Speed": 2.3
+    },
+    "Undead_T0_1h": {
+      "Health": 35.0,
+      "Speed": 2.2,
+      "Damage": 3.0
+    },
+    "Undead_T0_BigShield": {
+      "Health": 55.0,
+      "Speed": 1.9,
+      "Damage": 3.0
+    },
+    "Undead_T1_Archer": {
+      "Health": 38.0,
+      "Speed": 2.7,
+      "Damage": 4.0
+    },
+    "Undead_T1_2h": {
+      "Health": 45.0,
+      "Speed": 2.4,
+      "Damage": 8.0
+    }
+  },
+  "CORE_LevelSettings": {
+    "Farmland": {
+      "MobHealthModifier": 1.15
+    },
+    "Nobleland": {
+      "MobHealthModifier": 1.15
+    },
+    "Churchland": {
+      "MobHealthModifier": 1.15
+    }
+  },
+  "CORE_PhaseDuration": {
+    "FirstPhase": {
+      "Duration": 15.0
+    },
+    "SecondPhase": {
+      "Duration": 15.0
+    },
+    "TrirdPhase": {
+      "Duration": 15.0
+    }
+  }
+}

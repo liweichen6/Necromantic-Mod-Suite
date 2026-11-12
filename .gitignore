@@ -1,0 +1,27 @@
+# Visual Studio / Rider / MonoDevelop
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+obj/
+*.tmp
+*.log
+*.bak
+
+# OS generated
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# User-specific runtime data (backups and exports are generated on game run)
+Backups/
+export/
+*.es3
+
+# Build output: DLLs are published as GitHub Release assets, not committed
+bin/
+dist/
